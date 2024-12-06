@@ -1,0 +1,7 @@
+.trapezoid {
+    width: 100%;
+    height: 100%;
+    clip-path: polygon(10% 100%, 10% 0%, 84% 0%, 120% 115%);
+    /* transform: scale(1.1, 1); */
+    
+}
